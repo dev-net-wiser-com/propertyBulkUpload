@@ -1,0 +1,51 @@
+  .topMain {
+    padding: 5px;
+  }
+  .topMain .topRow {
+    margin-bottom: 20px;
+  }
+  .topMain .topRow .selectView{
+    margin-right: 50px;
+    display: inline-block;
+  }
+  .topMain .topRow .selectView .title{
+    margin-right: 10px;
+    display: inline-block;
+    min-width: 80px;
+  }
+  .topMain .topRow .selectView .viewvalue{
+    display: inline-block;
+  }
+  .topMain .topRow .selectView .viewvalue .valueinput{
+    display: inline-block;
+    width: 100px;
+  }
+  
+  .tableMain {
+    padding: 0px 5px;
+  }
+  .tableview {
+    width: 100%;
+    text-align: center;
+  }
+  .tableview .tbhead {
+    background-color: #F8F8F8;
+  }
+  .trview{
+    height: 50px;
+    border-bottom: 1px solid #E8E8E8;
+  }
+  .tbodyview {
+    background-color: #FFF;
+  }
+  .selecttitle {
+    margin-top: 18px;
+  }
+  .checkedAll {
+    vertical-align: top;
+    margin-top: 2px;
+  }
+  .bottomPagination {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }

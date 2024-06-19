@@ -1,0 +1,61 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@microsoft/sp-polyfills": "^1.7.0",
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^3.3.7",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.3.1",
+    "jquery.soap": "^1.7.3",
+    "moment-range": "^1.2.0",
+    "multiselect-react-dropdown": "^1.6.1",
+    "namor": "^1.1.0",
+    "node-sass": "^4.10.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^0.32.4",
+    "react-confirm-alert": "^2.4.1",
+    "react-datepicker": "^2.0.0",
+    "react-dom": "^17.0.2",
+    "react-input-calendar": "^0.5.4",
+    "react-loading": "^2.0.3",
+    "react-redux": "^5.1.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.3",
+    "react-select": "^3.1.0",
+    "react-table": "^6.8.6",
+    "react-tabs": "^2.3.0",
+    "react_datepicker": "^1.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "history": "^4.7.2",
+    "redux-logger": "^3.0.6"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
